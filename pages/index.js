@@ -25,7 +25,11 @@ export default function Home() {
             <p>Find in-depth information about Next.js features and API.</p>
           </a>
 
-          <a href="tel:123456789" className={styles.card}>
+          <a
+            href="tel:123456789"
+            data-telegram="telegram"
+            className={styles.card}
+          >
             <h3>A tel &rarr;</h3>
             <p>Learn about Next.js in an interactive course with quizzes!</p>
           </a>
