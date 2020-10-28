@@ -1,3 +1,3 @@
 # 💌 NextJS and mailgo
 
-<https://mailgo.dev>
+<https://nextjs.mailgo.dev>
