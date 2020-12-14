@@ -20,7 +20,7 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="mailto:matteo@manzinello.dev" className={styles.card}>
+          <a href="mailto:info@mailgo.dev" className={styles.card}>
             <h3>A mailto &rarr;</h3>
             <p>Find in-depth information about Next.js features and API.</p>
           </a>
